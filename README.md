@@ -1,7 +1,5 @@
 <base target="_blank">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=JiminSong👨‍💻&fontSize=60)
-
   * 🥷 Passionate Coding Ninja
   * 💬 Ask me about any projects I have worked on below. I will be happy to discuss every details.
   * 📫 Best way to reach me: koreaabdu16@gmail.com [or straight call me at 4087977131]
