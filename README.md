@@ -60,8 +60,8 @@ https://github.com/Abdugafur111/FleetApp <br>
 
 
 <a href="https://github.com/Abdugafur111">
-<img height=160 align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=JiminSongSoftware" alt="Jim's GitHub Stats" title="GitHub Streak"/>
-<img height=160 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiminSongSoftware&layout=compact" alt="Jimin's Github Most Used Languages"/>
+<img height=160 align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdugafur111" alt="Jim's GitHub Stats" title="GitHub Streak"/>
+<img height=160 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdugafur111&layout=compact" alt="Abdu's Github Most Used Languages"/>
 </a>
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
