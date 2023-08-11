@@ -57,6 +57,9 @@ https://github.com/Abdugafur111/LibraryManager <br>
 Fleet App <br>
 https://github.com/Abdugafur111/FleetApp <br>
 </a>
+## Experince in the industry <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
+Dell Technologies <br>
+<a href="#"><img align='right' src="[https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif](https://www.boldbusiness.com/wp-content/uploads/2019/01/Feature-Image-1.jpg)" width="200" /></a>
 
 
 <a href="https://github.com/Abdugafur111">
